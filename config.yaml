@@ -1,0 +1,5 @@
+url: https://jsonplaceholder.typicode.com
+# Any additional folder to be loaded could be added in the below list
+folder:
+  - todos
+  - albums

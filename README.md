@@ -26,7 +26,9 @@ You will find the existing report in `report.py` and test in the `/tests` folder
 ## Setup
  
 This skeleton app uses Python3, you can install dependencies by running eg: `pip3 install -r requirements.txt`.
- 
+
+Add any folder to load in the file `config.yaml`
+
 Running the migrations: `python3 migrations.py`
  
 Loading data from API: `python3 load_data.py`
